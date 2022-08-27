@@ -7,3 +7,9 @@
 This is a trial on git commit
  
 this didnt work
+
+1.Git-add
+
+2.Git-commit
+
+3.Git-push
